@@ -1,0 +1,9 @@
+# Secrets
+*.key
+*.csr
+
+# Images
+*.png
+*.gif
+*.jpg
+*.jpeg
